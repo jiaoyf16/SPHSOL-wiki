@@ -6,9 +6,7 @@ The code is freely available to academic uses, upon request by email to the auth
 
 ## Contact Info
 Yifei Jiao (PhD student)
-
 Tsinghua University, Beijing, China
-
 Email: jiaoyf.thu@gmail.com.
 
 Any feedback is highly appreciated.
