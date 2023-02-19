@@ -5,8 +5,6 @@ THU-SPHSOL is developed for hypervelocity impact simulations in astrodynamics an
 The code is freely available to academic uses, upon request by email to the authors.
 
 ## Contact Info
-Yifei Jiao (PhD student)
-
-Tsinghua University, Beijing, China (jiaoyf.thu@gmail.com)
+Yifei Jiao (PhD student), Tsinghua University, Beijing, China (Email: jiaoyf.thu@gmail.com)
 
 Any feedback is highly appreciated.
